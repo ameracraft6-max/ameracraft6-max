@@ -77,7 +77,6 @@ status: Crafting high-performance tools & open-source solutions
 
 | Проект | Стек | Описание |
 | :--- | :---: | :--- |
-| 🛡️ [**RussianCertRemove**](https://github.com/ameracraft6-max/RussianCertRemove) | `C#` | Утилита для управления, проверки и очистки доверенных корневых сертификатов Минцифры в системе Windows. |
 | ⚡ [**7dtd-аниме-лаунчер**](https://github.com/ameracraft6-max/7dtd-аниме-лаунчер) | `Rust` | Высокопроизводительный кастомный лаунчер с визуализацией и оптимизированной загрузкой ресурсов. |
 | 🎮 [**LoliLend**](https://github.com/ameracraft6-max/LoliLend) | `Python` | Настольное приложение-лаунчер со встроенной системой автообновлений через GitHub Releases API. |
 | 🎨 [**steam-обложка-инструмент**](https://github.com/ameracraft6-max/steam-обложка-инструмент) | `JavaScript` | Автоматизация библиотеки Steam: автопилот обложек VSThemes / Workshop и оптимизация загрузки. |
